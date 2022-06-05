@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'tục tưng à :33',
+    introDesc: `ahihi tớ muốn cho cậu bíc là íii
+to thichh cauu nhiều nắm isiiiiiiiiiiiiiii 
+u là chời 
+Hạnh luv u<3`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'ơ hình như cậu thích tớ dùiii',
+    desc: 'cậu thích tớ nắm đúngg hăm??  ',
+    btnYes: 'đúm vại t rất iêu Hạnh',
+    btnNo: 'hăm tớ chỉ coi Hạnh là bạn hoiii',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Hạnh zạ<3?',
+    btnReply: 'Gửi cho miluv<3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'tớ cũm iuu cậu nhìuuuuuuuu',
+    messDesc: 'mai đi học cho hunn miếng nhaaa iu iu <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: httpshttps://www.facebook.com/nguynhongghank.2806/
 }
